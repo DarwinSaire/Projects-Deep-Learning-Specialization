@@ -101,20 +101,13 @@ NLP, emoji generation with LSTM, [here](https://github.com/DarwinSaire/Projects-
 
 
 
-data-traduction-model into machine readable dates with Bi-LSTM, [here](https://github.com/DarwinSaire/Projects-Deep-Learning-Specialization/blob/master/Sequence%20Models/Week3/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+Data-traduction-model into machine readable dates with Bi-LSTM, [here](https://github.com/DarwinSaire/Projects-Deep-Learning-Specialization/blob/master/Sequence%20Models/Week3/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
 
 <img src="img/data-traduction-model.png" alt="data-traduction-model" width="900">
 
 
 
-asd
+Creating a speech, GRU, LSTM, Bi-LSTM, [here](https://nbviewer.org/github/DarwinSaire/Projects-Deep-Learning-Specialization/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)
 
-asfd
+<img src="img/model_trigger.png" alt="model_trigger" width="500">
 
-asdf
-
-asdf
-
-asd
-
-sdasd
