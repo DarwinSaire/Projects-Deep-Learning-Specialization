@@ -93,11 +93,17 @@ Jazz music generation with LSTM, [here](https://github.com/Kulbear/deep-learning
 
 <img src="img/music_gen.png" alt="music_gen" width="850">
 
+
+
 NLP, emoji generation with LSTM, [here](https://github.com/DarwinSaire/Projects-Deep-Learning-Specialization/blob/master/Sequence%20Models/Week2/Emojify/Emojify%20-%20v2.ipynb)
 
 <img src="img/emojifier.png" alt="emojifier" width="850">
 
-as
+
+
+Translating human readable dates into machine readable dates
+
+<img src="img/data-traduction-model.png" alt="data-traduction-model" width="900">
 
 
 
