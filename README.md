@@ -57,7 +57,7 @@ Deep Neural Network for Image Classification, [here](https://github.com/DarwinSa
 
 
 
-SIGN language classification with RestNet50, [here](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week2/ResNets/Residual%20Networks%20-%20v1.ipynb)
+SIGN language classification with RestNet50, [here1](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week2/ResNets/Residual%20Networks%20-%20v1.ipynb), [here2](https://github.com/DarwinSaire/Projects-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
 
 <img src="img/sign-language.png" alt="sign-language" width="650">
 
@@ -83,3 +83,32 @@ Neural Style Transfer [here](https://github.com/enggen/Deep-Learning-Coursera/bl
 
 
 
+Generate new dinosaur names, RNN-cell, LSTM-cell, [here](https://github.com/DarwinSaire/Projects-Deep-Learning-Specialization/blob/master/Sequence%20Models/Week1/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+
+<img src="img/rnn-dinos.png" alt="rnn-dinos" width="750">
+
+
+
+Jazz music generation with LSTM, [here](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb)
+
+<img src="img/music_gen.png" alt="music_gen" width="850">
+
+asd
+
+
+
+as
+
+
+
+asd
+
+asfd
+
+asdf
+
+asdf
+
+asd
+
+sdasd
