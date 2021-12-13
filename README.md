@@ -101,7 +101,7 @@ NLP, emoji generation with LSTM, [here](https://github.com/DarwinSaire/Projects-
 
 
 
-Translating human readable dates into machine readable dates
+data-traduction-model into machine readable dates with Bi-LSTM, [here](https://github.com/DarwinSaire/Projects-Deep-Learning-Specialization/blob/master/Sequence%20Models/Week3/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
 
 <img src="img/data-traduction-model.png" alt="data-traduction-model" width="900">
 
